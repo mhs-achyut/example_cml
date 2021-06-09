@@ -1,0 +1,4 @@
+[core]
+    remote = rsi_storage
+['remote "rsi_storage"']
+    url = gs://example_cml_data
